@@ -67,6 +67,9 @@ A sua média do enem é: 500 pontos.
 Deseja calcular novamente?
 1 - Sim
 2 - Não
+
+2. Obrigado, até a próxima!
+
 ```
 ### Requisitos
 - .NET 6.0 ou superior.
