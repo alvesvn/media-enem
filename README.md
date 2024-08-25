@@ -76,7 +76,7 @@ Deseja calcular novamente?
 <strong> Program.cs:</strong>  contém a lógica principal do programa, responsável por capturar a entrada do usuário, realizar a operação e exibir o resultado.
 
 ### Contribuindo
-Contribuições são bem-vindas! 
+Contribuições são bem-vindas!✨
 
 ### Licença
 Este projeto está licenciado sob a Licença MIT - veja o arquivo LICENSE para detalhes.
